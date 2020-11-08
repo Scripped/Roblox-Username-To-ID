@@ -4,4 +4,5 @@ This gets someone's username and displays that player's ID. This is good for kno
 # Instructions
 1. Go on Command Prompt.
 2. Type 'cd <em>C:\Users\... (The place you want to run the files.)</em>'
-3. 
+3. Type 'npm init' (then press enter and fill in what you wish)
+4. 

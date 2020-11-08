@@ -15,3 +15,7 @@ This gets someone's username and displays that player's ID. This is good for kno
 5. When they have finished installing, copy <a href="https://github.com/Scripped/Roblox-Username-To-ID/blob/main/test.js"> this code</a> onto a .js document. (Don't paste this on Command Prompt, paste it to a text editor (notepad, notepad++, visual studio etc.))
 6. Go back to Command Prompt and type 'node <em>filename.js</em>'
 7. It will take a while, and most times it won't load -- that's how bad my coding is lol.
+
+# Roblox
+
+https://www.roblox.com/users/1957038621/profile

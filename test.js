@@ -45,7 +45,7 @@ const user = $(this).text()
                 var userid = $(this).attr("thumbnail-target-id")
 
                 console.log( "ID: " + userid)
-                console.log("Copy the ID and go to second.js to continue.")
+
                  process.exit(1);
             })
         
@@ -59,7 +59,7 @@ const user = $(this).text()
                 var userid = $(this).attr("thumbnail-target-id")
 
                 console.log( "ID: " + userid)
-                console.log("Copy the ID and go to second.js to continue.")
+
                  process.exit(1);
             })
         }
